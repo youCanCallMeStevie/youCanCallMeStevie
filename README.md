@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Wine & Food brand marketer turned **Full-Stack Student at Strive School**. Mainly repos of experiments & exercises, my curiousity has taken me to this expanding corner of code.
+Wine & Food marketer turned **Full-Stack Student at <a hef="https://github.com/Strive-School" target="\_blank">Strive School**</a>. Mainly repos of experiments & exercises, my curiousity has taken me to this expanding corner of code.
 
 ## My stack <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" align="right" width="75px">
 
@@ -25,27 +25,28 @@ Wine & Food brand marketer turned **Full-Stack Student at Strive School**. Mainl
 <img src = 'https://img.shields.io/badge/html%20-%23150458.svg?&style=for-the-badge&logo=html&logoColor=white'/>
 <img src = 'https://img.shields.io/badge/typescript%20-%23013243.svg?&style=for-the-badge&logo=typescript&logoColor=white'/>  
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </p>
 
-## Who am I<img src="https://media.giphy.com/media/fnuSiwXMTV3zmYDf6k/giphy.gif" align="right"  width="50px">
+## Who am I<img src="https://media.giphy.com/media/fnuSiwXMTV3zmYDf6k/giphy.gif" align="right"  width="75px">
 
 ```javascript
 const whoAmI = {
   user: 'Stephanie Flanagan'
   current_edu: 'Strive School'
   hobbies: [
-       'Wine',
-       'Paddleboarding',
-       'Dancing',
-       'Balloon animals',
-       'Turning my kitchen into 'Come Dine with me'',
-       'Making 25 hours out of each day'
+       "Wine",
+       "Paddleboarding",
+       "Yoga",
+       "Balloon animals",
+       "Turning my kitchen into 'Come Dine with Me'",
+       "Making 25 hours out of each day"
 			],
   education: [{
     degree: "Master's of Science",
-    fieldOfStudy: "Media & communications",
+    fieldOfStudy: "Media & Communications",
     school: "Lunds Universitet",
     location: "Lund, Sweden"
   }, {
