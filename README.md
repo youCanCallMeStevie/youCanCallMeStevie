@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Wine & Food marketer turned **Full-Stack Student at <a hef="https://github.com/Strive-School" target="\_blank">Strive School**</a>. Mainly repos of experiments & exercises, my curiousity has taken me to this expanding corner of code.
+Wine & Food marketer turned **Full-Stack Student at <a hef="https://github.com/Strive-School" target="\_blank">Strive School**</a>. Mainly repos of curious experiments & exercises.
 
 ## My stack <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" align="right" width="75px">
 
@@ -76,7 +76,7 @@ const handleLocation = async e => {
  };
 ```
 
-## GitHub Stats <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="75px">
+## GitHub Stats <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" align="right" width="75px">
 
 <div style="display: inline-block">
 <img src="https://github-readme-stats.vercel.app/api?username=youCanCallMeStevie&theme=bear">
