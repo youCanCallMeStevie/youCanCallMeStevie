@@ -1,13 +1,13 @@
 ## Hey There, I'm Stephanie (but you can call me Stevie)!<img src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" align="right"  width="75px">
 
 <p align='left'>
-  <a href="mailto:flanagan.stephanie@gmail.com?subjetc=Hi, from Git Hub">
+  <a href="mailto:flanagan.stephanie@gmail.com?subjetc=Hi, from Git Hub" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/camelToeCase">
+  <a href="https://www.instagram.com/camelToeCase" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
-  <a href="https://www.linkedin.com/in/srflanagan/">
+  <a href="https://www.linkedin.com/in/srflanagan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
 </p>
