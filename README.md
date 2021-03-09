@@ -30,7 +30,7 @@ Wine & Food marketer turned **Full-Stack Student at <a hef="https://github.com/S
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </p>
 
-## Who am I<img src="https://media.giphy.com/media/fnuSiwXMTV3zmYDf6k/giphy.gif" align="right"  width="75px">
+## Who am I<img src="https://media.giphy.com/media/cRNbYm7jLOjm9H8wcP/giphy.gif" align="right"  width="75px">
 
 ```javascript
 const whoAmI = {
@@ -71,7 +71,7 @@ const handleLocation = async e => {
      message = "Permanent Resident";
    } else {
      res = await passport(country.USA);
-     message = "American Citzen";
+     message = "American Citizen";
    }
  };
 ```
