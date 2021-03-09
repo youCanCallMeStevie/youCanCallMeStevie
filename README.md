@@ -1,8 +1,4 @@
-## Hey There, I'm Stephanie (but you can call me Stevie)!<img src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif">
-
-  <a href="https://open.spotify.com/user/lmnop?si=F8g9vQR9SBSfcRuq3Uchcg" align='right'>
-    <img src="https://spotify-github-profile.vercel.app/api/view?lmnop?si=F8g9vQR9SBSfcRuq3Uchcg&cover_image=true&theme=novatorem" align='right'>
-  </a>
+## Hey There, I'm Stephanie (but you can call me Stevie)!<img src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" width="40px">
 
 <p align='left'>
   <a href="mailto:flanagan.stephanie@gmail.com?subjetc=Hi, from Git Hub">
@@ -17,7 +13,7 @@
 </p>
 Wine & Food brand development & marketing turned **MERN stack coder**. Mainly repos of experiments & exercises, my curiousity has taken me to this expanding corner of code.
 
-## IT Skills<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
+## My stack<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
 
 <p align = 'left'>
 <img src = 'https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=react&logoColor=white' />
@@ -29,7 +25,7 @@ Wine & Food brand development & marketing turned **MERN stack coder**. Mainly re
 <img src = 'https://img.shields.io/badge/typescript%20-%23013243.svg?&style=for-the-badge&logo=typescript&logoColor=white'/>  
 </p>
 
-## Who am I<img src="https://media.giphy.com/media/fnuSiwXMTV3zmYDf6k/giphy.gif" width="20px">
+## Who am I<img src="https://media.giphy.com/media/fnuSiwXMTV3zmYDf6k/giphy.gif" width="40px">
 
 ```javascript
 const whoAmI = {
