@@ -59,7 +59,7 @@ const whoAmI = {
     degree: "Bachelor's of Arts",
     fieldOfStudy: "Broadcasting, Telecommunications, Mass Media",
     school: "テンプル大学",
-    location: "Tokoyo, Japan"
+    location: "Tokyo, Japan"
   }
   ]
 }
