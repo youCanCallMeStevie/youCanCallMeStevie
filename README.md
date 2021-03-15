@@ -40,9 +40,7 @@ const whoAmI = {
        "Wine",
        "Paddleboarding",
        "Yoga",
-       "Balloon animals",
        "Turning my kitchen into 'Come Dine with Me'",
-       "Making 25 hours out of each day"
 			],
   education: [{
     degree: "Master's of Science",
@@ -54,12 +52,6 @@ const whoAmI = {
     fieldOfStudy: "Broadcasting, Telecommunications, Mass Media",
     school: "Temple University",
     location: "Philadelphia, USA"
-  },
-  {
-    degree: "Bachelor's of Arts",
-    fieldOfStudy: "Broadcasting, Telecommunications, Mass Media",
-    school: "テンプル大学",
-    location: "Tokyo, Japan"
   }
   ]
 }
