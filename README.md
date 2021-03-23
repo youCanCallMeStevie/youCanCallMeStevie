@@ -1,4 +1,4 @@
-## Hey There, I'm Stephanie (but you can call me Stevie)!<img src="https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif" align="right"  width="75px">
+## Hey There, I'm Stephanie (but you can call me Stevie)!
 
 <p align='left'>
   <a href="mailto:flanagan.stephanie@gmail.com?subjetc=Hi, from Git Hub" target="_blank">
@@ -14,7 +14,7 @@
 
 Wine & Food marketer turned **Full-Stack Student at <a hef="https://github.com/Strive-School" target="\_blank">Strive School**</a>. Mainly repos of curious experiments & exercises.
 
-## My stack <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" align="right" width="75px">
+## My stack
 
 <p align = 'left'>
 <img src = 'https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=react&logoColor=white' />
@@ -30,7 +30,7 @@ Wine & Food marketer turned **Full-Stack Student at <a hef="https://github.com/S
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </p>
 
-## Who am I <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" align="right"  width="75px">
+## Who am I 
 
 ```javascript
 const whoAmI = {
